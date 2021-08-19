@@ -1,7 +1,7 @@
 # GFWL-Offline-Method-Install
  Games For Windows Live Final (Original) Offline Install Method as install cannot download the files from ms as some where missing online.
 
-#Windows 10
+# Windows 10
 Simply Launch "gfwlivesetup.exe" await it crashing, thats ok, as we will play a bit of trickery and insert the files into the cache so next time it is ran it will install correctly.
 
 So once launched, locate the following folder :
@@ -19,7 +19,7 @@ Gears of War 1 PC
 Any advice you need or if you get stuck, open a ticket here :)
 
 
-#Windows 7/8/10 Game Install Method with SecuROM 
+# Windows 7/8/10 Game Install Method with SecuROM 
 In order to get games working that have securom enabled and windows doesent allow it anymore.
 
 Simply goto Settings/ControlPanel -> Devices -> AutoPlay and set "Removeable Media" to do nothing.
