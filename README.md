@@ -17,3 +17,16 @@ I cannot help you with a key for gfwl, but I tested the following games with thi
 Gears of War 1 PC 
 
 Any advice you need or if you get stuck, open a ticket here :)
+
+
+#Windows 7/8/10 Game Install Method with SecuROM 
+In order to get games working that have securom enabled and windows doesent allow it anymore.
+
+Simply goto Settings/ControlPanel -> Devices -> AutoPlay and set "Removeable Media" to do nothing.
+
+So this stops windows 7 / 8 / 10 spitting out the disk, then open imgburn (https://www.imgburn.com/)
+
+And then select "Create Image From CD/DVD" rip it, once ripped just mount the iso in windows or extract it.
+
+run the game autoplay.exe and it should run :)
+
